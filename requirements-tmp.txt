@@ -4,3 +4,4 @@ scipy
 lxml
 beautifulsoup4
 sh
+autosklearn

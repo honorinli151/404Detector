@@ -7,8 +7,8 @@ from systemtools.location import *
 from systemtools.basics import *
 from datatools.json import *
 from datatools.csvreader import *
-from webcrawler.utils import *
-from webcrawler.browser import *
+from hjwebbrowser.utils import *
+from hjwebbrowser.browser import *
 import sh
 from webcrawler.error404.urls import *
 import random

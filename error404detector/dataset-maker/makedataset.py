@@ -71,13 +71,13 @@ from systemtools.hayj import *
 from datatools.json import *
 from datatools.csvreader import *
 from webcrawler.crawler import *
-from webcrawler.utils import *
-from webcrawler.browser import *
-from webcrawler.error404.urls import *
+from hjwebbrowser.utils import *
+from hjwebbrowser.browser import *
+from hjwebbrowser.error404.urls import *
 import sh
-from webcrawler.error404.urls import *
+from hjwebbrowser.error404.urls import *
 import random
-from webcrawler.error404.alreadydone import *
+from hjwebbrowser.error404.alreadydone import *
 from systemtools.logger import log, logInfo, logWarning, logError, Logger
 
 def testUrlParsing():
